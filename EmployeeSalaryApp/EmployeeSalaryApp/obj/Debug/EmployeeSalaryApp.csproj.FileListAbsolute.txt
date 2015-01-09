@@ -1,0 +1,12 @@
+F:\Shawon\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+F:\Shawon\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+F:\Shawon\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+F:\Shawon\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+F:\Shawon\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.EmployeeSalaryUI.resources
+F:\Shawon\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+F:\Shawon\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+F:\Shawon\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+F:\Shawon\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+E:\FTFL Class Lecture\BITM course\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+E:\FTFL Class Lecture\BITM course\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+E:\FTFL Class Lecture\BITM course\28-Dec-2014\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb

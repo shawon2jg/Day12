@@ -1,0 +1,12 @@
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CalculateResultApp\CalculateResultApp\bin\Debug\CalculateResultApp.exe.config
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CalculateResultApp\CalculateResultApp\bin\Debug\CalculateResultApp.exe
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CalculateResultApp\CalculateResultApp\bin\Debug\CalculateResultApp.pdb
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CalculateResultApp\CalculateResultApp\obj\Debug\CalculateResultApp.csprojResolveAssemblyReference.cache
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CalculateResultApp\CalculateResultApp\obj\Debug\CalculateResultApp.CalculateResultUI.resources
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CalculateResultApp\CalculateResultApp\obj\Debug\CalculateResultApp.Properties.Resources.resources
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CalculateResultApp\CalculateResultApp\obj\Debug\CalculateResultApp.csproj.GenerateResource.Cache
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CalculateResultApp\CalculateResultApp\obj\Debug\CalculateResultApp.exe
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CalculateResultApp\CalculateResultApp\obj\Debug\CalculateResultApp.pdb
+E:\FTFL Class Lecture\BITM course\28-Dec-2014\CalculateResultApp\CalculateResultApp\bin\Debug\CalculateResultApp.exe.config
+E:\FTFL Class Lecture\BITM course\28-Dec-2014\CalculateResultApp\CalculateResultApp\obj\Debug\CalculateResultApp.exe
+E:\FTFL Class Lecture\BITM course\28-Dec-2014\CalculateResultApp\CalculateResultApp\obj\Debug\CalculateResultApp.pdb
